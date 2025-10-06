@@ -23,7 +23,7 @@ This project systematically re-examines **moral contagion effects** across datas
 
 ---
 
-## 🧩 Study Design
+## Study Design
 
 The paper employs a **three-study framework**:
 
@@ -37,7 +37,7 @@ The paper employs a **three-study framework**:
 
 ---
 
-## ⚙️ Study I: Measurement Bias in Moral Foundations Analysis
+## Study I: Measurement Bias in Moral Foundations Analysis
 
 ### Research Questions
 - **RQ1:** To what extent do machine learning– and LLM-based approaches differ from traditional dictionary-based methods in measuring moral foundations?  
